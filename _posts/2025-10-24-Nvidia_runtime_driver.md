@@ -1,6 +1,7 @@
 ---
 layout: post
-title: CUDA Compilation and the Runtime vs. Driver API: A Practical Example
+title: CUDA Compilation and the Runtime vs. Driver API
+subtitle: Ncidia GPU
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 categories: [Technology, GPU, CUDA]
