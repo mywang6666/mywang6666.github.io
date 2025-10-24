@@ -4,13 +4,32 @@ title: About Me
 permalink: /aboutme/
 ---
 
-![Profile Picture]({{ '/assets/img/profile.jpg' | relative_url }}){: .rounded-circle.shadow.mb-3 style="width: 180px; display: block; margin-left: auto; margin-right: auto;"}
-
-![Profile Picture]({{ '/assets/img/profile_1.jpg' | relative_url }}){: .rounded-circle.shadow.mb-3 style="width: 180px; display: block; margin-left: auto; margin-right: auto;"}
-
-![Profile Picture]({{ '/assets/img/profile_2.jpg' | relative_url }}){: .rounded-circle.shadow.mb-3 style="width: 180px; display: block; margin-left: auto; margin-right: auto;"}
-
-![Profile Picture]({{ '/assets/img/prof_profile.jpg' | relative_url }}){: .rounded-circle.shadow.mb-3 style="width: 180px; display: block; margin-left: auto; margin-right: auto;"}
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 1rem 0;">
+  <a href="{{ '/assets/img/profile.jpg' | relative_url }}">
+    <img src="{{ '/assets/img/profile.jpg' | relative_url }}" 
+         class="rounded-circle shadow" 
+         style="width: 160px; height: 160px; object-fit: cover;" 
+         alt="Profile Picture">
+  </a>
+  <a href="{{ '/assets/img/profile_1.jpg' | relative_url }}">
+    <img src="{{ '/assets/img/profile_1.jpg' | relative_url }}" 
+         class="rounded-circle shadow" 
+         style="width: 160px; height: 160px; object-fit: cover;" 
+         alt="Profile Picture">
+  </a>
+  <a href="{{ '/assets/img/profile_2.jpg' | relative_url }}">
+    <img src="{{ '/assets/img/profile_2.jpg' | relative_url }}" 
+         class="rounded-circle shadow" 
+         style="width: 160px; height: 160px; object-fit: cover;" 
+         alt="Profile Picture">
+  </a>
+  <a href="{{ '/assets/img/prof_profile.jpg' | relative_url }}">
+    <img src="{{ '/assets/img/prof_profile.jpg' | relative_url }}" 
+         class="rounded-circle shadow" 
+         style="width: 160px; height: 160px; object-fit: cover;" 
+         alt="Profile Picture">
+  </a>
+</div>
 
 # Hello, I'm Mingyuan Wang!
 
