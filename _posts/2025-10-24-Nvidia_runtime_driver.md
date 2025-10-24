@@ -89,8 +89,9 @@ When you run `./runtime_example`, the following happens:
     - Allocate GPU memory
     - Submit work to the GPU command queue
     - Synchronize execution
+  
  {: .box-note}
-  🔑**Key Insight**: The Runtime API is a high-level, easy-to-use wrapper around the driver API. The driver API is more verbose but offers finer control (e.g., explicit context management, module loading).
+ **Key Insight:** The Runtime API is a high-level, easy-to-use wrapper around the driver API. The driver API is more verbose but offers finer control (e.g., explicit context management, module loading).
 
  In our example, we use the Runtime API—which is why the code is concise and readable. If we don't use the CUDA Runtime API, we must use lower-level CUDA driver API (`#include <cuda.h>`). This gives you more control—but requires significantly more boilerplate.
 ```cpp
