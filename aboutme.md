@@ -6,58 +6,51 @@ permalink: /aboutme/
 
 ![Profile Picture]({{ '/assets/img/profile.jpg' | relative_url }}){: .rounded-circle.shadow.mb-3 style="width: 180px; display: block; margin-left: auto; margin-right: auto;"}
 
-# Hello, I'm Your Name!
+![Profile Picture]({{ '/assets/img/profile_1.jpg' | relative_url }}){: .rounded-circle.shadow.mb-3 style="width: 180px; display: block; margin-left: auto; margin-right: auto;"}
 
-I'm a passionate **software engineer** and **open-source enthusiast** based in 🌍 City, Country.  
-I love building tools that make people’s lives easier — whether it’s a clean web interface, an automated script, or a well-documented library.
+![Profile Picture]({{ '/assets/img/profile_2.jpg' | relative_url }}){: .rounded-circle.shadow.mb-3 style="width: 180px; display: block; margin-left: auto; margin-right: auto;"}
 
-When I’m not coding, you’ll find me:
-- 📚 Reading books on AI or philosophy  
-- 🥾 Hiking in the mountains  
-- ☕ Brewing the perfect cup of coffee  
+![Profile Picture]({{ '/assets/img/prof_profile.jpg' | relative_url }}){: .rounded-circle.shadow.mb-3 style="width: 180px; display: block; margin-left: auto; margin-right: auto;"}
 
----
+# Hello, I'm Mingyuan Wang!
 
-## 🛠️ Skills & Tools
+I’m a curious engineer turned PhD student, currently based in Beijing, China. After several years in the industry designing hardware systems, I returned to academia to dive deeper into the frontier technology.
 
-- **Languages**: Python, JavaScript, HTML/CSS, SQL  
-- **Frameworks**: React, Flask, Jekyll  
-- **Tools**: Git, GitHub Actions, VS Code, Docker  
-- **Interests**: Web development, data visualization, technical writing
+On this site, I share my research journey, technical reflections, side projects, and occasional musings on lifelong learning. If any of this resonates with you—whether you're a fellow researcher, an engineer, or just someone passionate about technology—I’d love to connect!
 
 ---
 
-## 🎓 Education & Experience
+## 🎓 Education & Professional Journey
 
-- **B.Sc. in Computer Science**  
-  *University Name* — 2018–2022
+📚 Academic Background
 
-- **Software Engineer** at *Tech Company*  
-  2022–Present  
-  Working on scalable web applications and developer tooling.
+- **PhD Student**
 
-- **Open Source Contributor**  
-  Active on [GitHub](https://github.com/yourusername), building tools for the community.
+    Westlake University (2024–present)
 
----
+    Research Focus: Optical Communication & Analog Integrated Circuits
+
+
+- **PhD Student (Joint Program)**
+
+    Zhongguancun Academy of Technology (2024–present)
+
+    Research Focus: AI Systems & GPU Architecture
+- **B.Eng. in Information and Communication Engineering**
+
+    National University of Defense Technology (NUDT) (2014–2018)
+
+💼 Industry Experience
+
+- Hardware Engineer – Signify (China) Investment Co., Ltd. (2021–2024)
+
+- Hardware Engineer – Hangzhou Changchuan Technology Co., Ltd. (2020–2021)
+
 
 ## 📬 Let’s Connect!
 
 I’m always happy to chat about tech, collaborate on projects, or grab a virtual coffee!  
 
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🐙 [github.com/yourusername](https://github.com/yourusername)  
-🔗 [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+📧 [s-wmy24@bjzgca.edu.cn](mailto:your.email@example.com)  
+🐙 [github.com/mywang6666](https://github.com/mywang6666)  
 
-
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
